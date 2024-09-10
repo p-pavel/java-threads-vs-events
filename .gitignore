@@ -1,0 +1,9 @@
+/profiler/
+.scala-build/
+.bsp/
+.bloop/
+.metals/
+.vscode/
+/result-*
+socket_test
+stack_control
